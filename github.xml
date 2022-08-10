@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="matteo0402" id="40d33c63-6c90-402b-81d0-eaf8b6882a64">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
